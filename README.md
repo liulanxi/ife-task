@@ -1,2 +1,2 @@
-# ife-task
-Baidu IFE project。记录IFE发布的小项目，记录我练习的过程。
+# 百度前端技术学院有趣的小项目
+
